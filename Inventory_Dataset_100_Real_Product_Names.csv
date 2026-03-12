@@ -1,0 +1,81 @@
+Product_ID,Product_Name,Category,Unit_Price,Reorder_Level,Current_Stock
+P001,Wireless Mouse,Electronics,550,20,20
+P002,Keyboard,Electronics,1434,15,12
+P003,USB Flash Drive,Electronics,950,11,24
+P004,External Hard Disk,Electronics,3516,12,24
+P005,Bluetooth Speaker,Electronics,1100,10,15
+P006,Webcam,Electronics,3500,10,24
+P007,Laptop Charger,Electronics,1800,8,21
+P008,HDMI Cable,Electronics,250,10,25
+P009,Power Bank,Electronics,3500,15,20
+P010,WiFi Router,Electronics,3750,5,12
+P011,Monitor,Electronics,5600,5,6
+P012,Headphones,Electronics,4500,12,12
+P013,Smart Watch,Electronics,1200,10,3
+P014,Mobile Stand,Electronics,600,12,15
+P015,Extension Board,Electronics,450,10,10
+P016,Printer,Electronics,8600,5,8
+P017,Scanner,Electronics,5500,10,6
+P018,Graphics Tablet,Electronics,4500,10,15
+P019,Router Antenna,Electronics,1600,6,13
+P020,SSD Drive,Electronics,2100,8,12
+P021,Rice Bag,Grocery,2150,6,24
+P022,Wheat Flour,Grocery,80,12,15
+P023,Cooking Oil,Grocery,180,18,12
+P024,Sugar Pack,Grocery,60,25,20
+P025,Salt Packet,Grocery,850,30,25
+P026,Tea Powder,Grocery,690,10,12
+P027,Coffee Powder,Grocery,840,8,12
+P028,Milk Packet,Grocery,56,25,16
+P029,Pulses Pack,Grocery,350,16,20
+P030,Spice Box,Grocery,420,15,25
+P031,Soap Bar,Grocery,25,30,65
+P032,Shampoo Bottle,Grocery,120,10,12
+P033,Toothpaste,Grocery,160,12,24
+P034,Dish Wash Liquid,Grocery,60,20,30
+P035,Detergent Powder,Grocery,85,25,20
+P036,Biscuits Pack,Grocery,10,35,45
+P037,Instant Noodles,Grocery,20,15,25
+P038,Dry Fruits Pack,Grocery,1510,15,25
+P039,Breakfast Cereal,Grocery,1150,12,16
+P040,Water Bottle,Grocery,250,25,14
+P041,Ball Pen,Stationery,10,30,40
+P042,Notebook,Stationery,50,30,50
+P043,Pencil Box,Stationery,80,20,35
+P044,Eraser,Stationery,10,20,12
+P045,Sharpener,Stationery,10,25,45
+P046,Marker Pen,Stationery,30,20,24
+P047,Highlighter,Stationery,40,25,35
+P048,Stapler,Stationery,80,30,24
+P049,Paper Clips,Stationery,20,20,31
+P050,Sketch Pens,Stationery,40,35,62
+P051,White Board Marker,Stationery,60,45,21
+P052,Sticky Notes,Stationery,55,25,24
+P053,A4 Paper Bundle,Stationery,660,24,21
+P054,Calculator,Stationery,1050,12,36
+P055,Geometry Box,Stationery,250,30,24
+P056,File Folder,Stationery,30,24,23
+P057,Exam Pad,Stationery,150,30,15
+P058,Glue Stick,Stationery,60,20,62
+P059,Correction Pen,Stationery,30,50,23
+P060,Ruler Scale,Stationery,40,30,27
+P061,Office Chair,Furniture,1150,12,37
+P062,Study Table,Furniture,2450,18,28
+P063,Bookshelf,Furniture,2599,6,5
+P064,Wooden Stool,Furniture,3499,12,18
+P065,Computer Desk,Furniture,4599,15,27
+P066,Filing Cabinet,Furniture,12599,6,12
+P067,Cupboard,Furniture,9500,3,9
+P068,Conference Table,Furniture,9899,3,4
+P069,Visitor Chair,Furniture,2688,10,17
+P070,Drawer Unit,Furniture,3500,6,8
+P071,Side Table,Furniture,1200,6,5
+P072,Sofa Set,Furniture,12899,3,6
+P073,Plastic Chair,Furniture,1250,15,23
+P074,Dining Table,Furniture,26000,5,7
+P075,TV Stand,Furniture,1200,12,10
+P076,Bed Frame,Furniture,12600,6,8
+P077,Mattress,Furniture,5700,5,7
+P078,Wardrobe,Furniture,10500,6,13
+P079,Coffee Table,Furniture,2799,5,14
+P080,Foot Rest,Furniture,1699,5,21
